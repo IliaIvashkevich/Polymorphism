@@ -3,6 +3,6 @@ package Weapons;
 public class Pistol extends Weapon {
     @Override
     public String shot() {
-        return "Пистолет: Дыш!";
+        return "Пистолет: Тыш! Тыш!";
     }
 }
